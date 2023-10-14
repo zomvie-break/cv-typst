@@ -1,3 +1,6 @@
+# sample files
+modules_sample/
+
 # compiled files
 ./*.pdf
 
