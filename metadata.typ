@@ -1,17 +1,17 @@
 // NOTICE: Copy this file to your root folder.
 
 /* Personal Information */
-#let firstName = "John"
+#let firstName = "Victor"
 
-#let lastName = "Doe"
+#let lastName = "Vaquero"
 
 #let personalInfo = (
-  github: "mintyfrankie",
-  phone: "+33 6 12 34 56 78",
-  email: "john.doe@me.org",
-  linkedin: "johndoe",
+  github: "zomvie-break",
+  phone: "+66 63 726 5800",
+  email: "victormiguelvaquero@gmail.com",
+  linkedin: "victor-vaquero",
   //gitlab: "mintyfrankie",
-  //homepage: "jd.me.org",
+  homepage: "thisisvictor.dev",
   //orcid: "0000-0000-0000-0000",
   //researchgate: "John-Doe",
   //extraInfo: "",
@@ -49,7 +49,7 @@
 )
 
 /* Layout Setting */
-#let awesomeColor = "skyblue" // Optional: skyblue, red, nephritis, concrete, darknight
+#let awesomeColor = "asphalt" // Optional: skyblue, red, nephritis, concrete, darknight
 
 #let profilePhoto = "../src/avatar.png" // Leave blank if profil photo is not needed
 
