@@ -9,32 +9,34 @@
     date: [2022 - Present],
     location: [Bangkok, Thailand],
     description: list(
-      [Lead a team of data scientists and analysts to develop and implement data-driven strategies, develop predictive models and algorithms to support decision-making across the organization],
-      [Collaborate with executive leadership to identify business opportunities and drive growth, implement best practices for data governance, quality, and security],
+      [Planned and delivered lessons for students at elementary and secondary levels],
     ),
     tags: ("Science", "Astronomy")
 )
 
 #cvEntry(
-    title: [Data Analyst],
-    society: [ABC Company],
-    logo: "../src/logos/abc_company.png",
-    date: [2017 - 2020],
-    location: [New York, NY],
+    title: [Project Engineer],
+    society: [Start up],
+    logo: "../src/logos/startup.png",
+    date: [2019 - 2020],
+    location: [Puebla, Mexico],
     description: list(
-      [Analyze large datasets using SQL and Python, collaborate with cross-functional teams to identify business insights],
-      [Create data visualizations and dashboards using Tableau, develop and maintain data pipelines using AWS],
-    )
+      [Designed and built an automated prototype for aeroponic vertical system for growing leafy greens],
+      [Implemented sensors and data acquisition system (temperature, humidity, pressure) ],
+      [Optimized resources for optimal growth (water, fertilizers, electricity)],
+    ),
+    tags: ("Python", "MicroPython", "ESP32", "Engineering")
 )
 
 #cvEntry(
-    title: [Data Analysis Intern],
-    society: [PQR Corporation],
-    logo: "../src/logos/pqr_corp.png",
-    date: [Summer 2017],
-    location: [Chicago, IL],
+    title: [Analyst, Real Estate],
+    society: [Agencia Inmobiliaria de Puebla],
+    logo: "../src/logos/real_estate.png",
+    date: [2020 - 2022],
+    location: [Puebla, Mexico],
     description: list(
-      [Assisted with data cleaning, processing, and analysis using Python and Excel, participated in team meetings and contributed to project planning and execution],
-      [Developed data visualizations and reports to communicate insights to stakeholders, collaborated with other interns and team members to complete projects on time and with high quality],
+      [Supervised the construction, design, and maintenance of residential houses and warehouses],
+      [Interacted with stakeholders and tenants as legal representative of the properties ],
+      [Consultant for acquisition and sale of properties]
     )
 )
