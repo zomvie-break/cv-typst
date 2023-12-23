@@ -2,20 +2,33 @@
 
 #cvSection("Certificates")
 
+
 #cvHonor(
   date: [2022],
-  title: [AWS Certified Security],
-  issuer: [Amazon Web Services (AWS)],
+  title: [Google IT Automation with Python Professional Certificate],
+  issuer: [Coursera, Google],
 )
 
 #cvHonor(
-  date: [2017],
-  title: [Applied Data Science with Python],
-  issuer: [Coursera]
+  date: [2022],
+  title: [Google Data Analytics],
+  issuer: [Coursera, Google],
 )
 
 #cvHonor(
-  date: [],
-  title: [SQL Fundamentals Track],
-  issuer: [Datacamp]
+  date: [2023],
+  title: [Django for Everybody Specialization],
+  issuer: [Coursera, University of Michigan],
 )
+#cvHonor(
+  date: [2023],
+  title: [PostgreSQL for Everybody Specialization],
+  issuer: [Coursera, University of Michigan],
+)
+
+#cvHonor(
+  date: [2023],
+  title: [Python3 Programming Specialization],
+  issuer: [Coursera, University of Michigan]
+)
+

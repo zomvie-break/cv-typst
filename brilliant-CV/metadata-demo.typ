@@ -7,7 +7,7 @@
 
 #let personalInfo = (
   github: "zomvie-break",
-  phone: "+66 63 726 5800",
+  phone: "+66 063 72 65 800",
   email: "victormiguelvaquero@gmail.com",
   linkedin: "victor-vaquero",
   //gitlab: "mintyfrankie",
@@ -21,7 +21,7 @@
 /* Language-specific */
 // Add your own languages while the keys must match the varLanguage variable
 #let headerQuoteInternational = (
-  "": [Engineer turned web developer looking for a full/part time job. Currently employed in Bangkok with a non-b visa.],
+  "": [Full Stack Engineer looking for a full time job starting now],
   "en": [Experienced Data Analyst looking for a full time job starting from now],
   "fr": [Analyste de données expérimenté à la recherche d'un emploi à temps plein disponible dès maintenant],
   "zh": [具有丰富经验的数据分析师，随时可入职]
@@ -49,7 +49,9 @@
 )
 
 /* Layout Setting */
-#let awesomeColor = "asphalt" // Optional: skyblue, red, nephritis, concrete, darknight
+// This can be any of the predefined colors: skyblue, red, nephritis, concrete, darknight
+// or alternatively you can define your own using `rgb("#AABBCC")`
+#let awesomeColor = "red"
 
 #let profilePhoto = "../src/avatar.png" // Leave blank if profil photo is not needed
 

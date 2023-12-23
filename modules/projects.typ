@@ -1,15 +1,17 @@
 #import "../brilliant-CV/template.typ": *
 
-#cvSection("Projects & Associations")
+#cvSection("Projects")
 
 #cvEntry(
-  title: [Volunteer Data Analyst],
-  society: [ABC Nonprofit Organization],
-  date: [2019 - Present],
-  location: [New York, NY],
+  title: [Personal website],
+  society: [thisisvictor.dev],
+  date: [2023 - Present],
+  location: [Bangkok, Thailand],
   description: list(
-    [Analyze donor and fundraising data to identify trends and opportunities for growth],
-    [Create data visualizations and dashboards to communicate insights to the board of directors],
-    [Collaborate with other volunteers to develop and implement data-driven strategies]
-  )
+    [Used Django for the backend of the website APIs as well as the integration of third-party services such as allauth],
+    [Handled APIs requests with vanilla JavaScript for following apps: todo list and weight tracker],
+    [Styled and structured the website using html, django templates, and css],
+    [Deploid to a  web hosting service]
+  ),
+  tags: ("Django", "JavaScript", "CSS", "Python", "SQL")
 )
