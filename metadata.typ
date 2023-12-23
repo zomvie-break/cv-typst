@@ -8,10 +8,11 @@
 #let personalInfo = (
   github: "zomvie-break",
   phone: "+66 63 726 5800",
-  email: "victormiguelvaquero@gmail.com",
+  // email: "victormiguelvaquero@gmail.com",
+  email: "victor@chroniclesofhades.com",
   linkedin: "victor-vaquero",
   //gitlab: "mintyfrankie",
-  homepage: "thisisvictor.dev",
+  homepage: "chroniclesofhades.com",
   //orcid: "0000-0000-0000-0000",
   //researchgate: "John-Doe",
   //extraInfo: "",

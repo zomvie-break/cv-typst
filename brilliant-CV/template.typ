@@ -80,7 +80,7 @@
 
 #let headerFirstNameStyle(str) = {text(
   font: headerFont,
-  size: 32pt,
+  size: 20pt,
   weight: "light",
   fill: regularColors.darkgray,
   str
@@ -88,13 +88,13 @@
 
 #let headerLastNameStyle(str) = {text(
   font: headerFont,
-  size: 32pt,
+  size: 20pt,
   weight: "bold",
   str
 )}
 
 #let headerInfoStyle(str) = {text(
-  size: 10pt,
+  size: 12pt,
   fill: accentColor,
   str
 )}
@@ -491,7 +491,7 @@
   set text(
     font: fontList,
     weight: "regular",
-    size: 9pt,
+    size: 8pt,
   )
   set align(left)
   set page(

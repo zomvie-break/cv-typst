@@ -4,7 +4,7 @@
 
 #cvEntry(
   title: [Personal website],
-  society: [thisisvictor.dev],
+  society: [chroniclesofhades.com],
   date: [2023 - Present],
   location: [Bangkok, Thailand],
   description: list(
@@ -13,5 +13,5 @@
     [Styled and structured the website using html, django templates, and css],
     [Deploid to a  web hosting service]
   ),
-  tags: ("Django", "JavaScript", "CSS", "Python", "SQL")
+  tags: ("Django", "JavaScript", "CSS", "Python", "SQL", "React", "docker", "AWS")
 )
