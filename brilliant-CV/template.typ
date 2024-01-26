@@ -386,14 +386,14 @@
   info: "Info",
 ) = {
   table(
-    columns: (16%, 1fr),
-    inset: 0pt,
+    columns: (14%, 1fr),
+    inset: 1pt,
     column-gutter: 10pt,
     stroke: none,
     skillTypeStyle(type),
     skillInfoStyle(info),
   )
-  v(-6pt)
+  v(-2pt)
 }
 
 #let cvHonor(
