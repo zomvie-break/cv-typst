@@ -8,10 +8,10 @@
   date: [2023 - Present],
   location: [Bangkok, Thailand],
   description: list(
-    [Used Django for the backend of the website APIs as well as the integration of third-party services such as allauth],
-    [Handled APIs requests with vanilla JavaScript for following apps: todo list and weight tracker],
-    [Styled and structured the website using html, django templates, and css],
-    [Deploid to a  web hosting service]
+    [Used NextJS to render dynamic content on the server for improved SEO ],
+    [Styled and added responsive design using TailwindCSS],
+    [Used Docker to contain the NextJS, Django, and NGINX servers],
+    [Deployed the website on an EC2 in AWS],
   ),
-  tags: ("Django", "JavaScript", "CSS", "Python", "SQL", "React", "docker", "AWS")
+  tags: ("Django", "NextJS", "TailwindCSS", "Docker", "AWS")
 )

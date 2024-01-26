@@ -3,6 +3,18 @@
 #cvSection("Professional Experience")
 
 #cvEntry(
+    title: [Web developer],
+    society: [Kwong Chow School],
+    logo: "../src/logos/kcs.png",
+    date: [2023 - Present],
+    location: [Bangkok, Thailand],
+    description: list(
+      [Currently developing a modern website for the school using the latest tachnologies.],
+    ),
+    tags: ("Django", "NextJS",  "Docker", "AWS", "SEO")
+)
+
+#cvEntry(
     title: [Teacher, Astronomy],
     society: [Kwong Chow School],
     logo: "../src/logos/kcs.png",
