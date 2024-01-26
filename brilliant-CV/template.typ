@@ -256,7 +256,12 @@
       if v != "" {
         // Adds hBar
         if n != 1 {
-          hBar()
+          " "
+        }
+        // add line breaks in the links
+        // change this manually
+        if n == 3 or n== 5  {
+          linebreak()
         }
         // Adds icons
         personalInfoIcons.at(k) + h(5pt)
