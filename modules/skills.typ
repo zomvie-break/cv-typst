@@ -9,10 +9,10 @@
 
 #cvSkill(
   type: [Tech Stack],
-  info: [ Python #hBar() Django #hBar() React #hBar() JavaScript #hBar() Linux #hBar() PostgreSQL]
+  info: [ #hBar() Python #hBar() Django #hBar() React #hBar() JavaScript #hBar() Linux #hBar() SQL #hBar() NextJS #hBar() Docker #hBar() NGINX #hBar() ]
 )
 
 #cvSkill(
   type: [Personal Interests],
-  info: [Fitness #hBar() Running #hBar() Reading ]
+  info: [#hBar() NixOS #hBar() Fitness #hBar() Running #hBar() Reading #hBar()]
 )
