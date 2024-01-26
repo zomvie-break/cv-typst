@@ -94,7 +94,7 @@
 )}
 
 #let headerInfoStyle(str) = {text(
-  size: 12pt,
+  size: 10pt,
   fill: accentColor,
   str
 )}
@@ -290,7 +290,7 @@
 
   let makeHeaderNameSection() = table(
     columns: 1fr,
-    inset: 0pt,
+    inset: -2pt,
     stroke: none,
     row-gutter: 6mm,
     [#headerFirstNameStyle(firstName) #h(5pt) #headerLastNameStyle(lastName)],
@@ -301,7 +301,7 @@
 
   let makeHeaderPhotoSection() = {
     if profilePhoto != "" {
-      image(profilePhoto, height: 3.6cm)
+      image(profilePhoto, height: 3cm)
     } else {
       v(3.6cm)
     }
